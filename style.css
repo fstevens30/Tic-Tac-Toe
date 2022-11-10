@@ -58,3 +58,11 @@ a {
     margin: 20px;
     color: #fff;
 }
+
+#footer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 15%;
+}
